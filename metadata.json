@@ -1,0 +1,6 @@
+{
+  "name": "MailCheck — Email Deliverability Checker",
+  "description": "Validate email syntax, inspect mail-routing DNS records, and classify delivery potential without sending emails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
